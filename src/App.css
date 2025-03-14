@@ -20,13 +20,13 @@ html, body {
 }
 
 .divConteudo {
-  flex-wrap: wrap;
   display: flex;
   height: 85%;
   width: 85%;
   background-color: #EDEBEB;
   border-radius: 20px;
   flex-direction: column;
+  margin-top: 5%;
 }
 
 .header {

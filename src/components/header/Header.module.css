@@ -23,15 +23,15 @@ body {
 }
 
 .sidebar {
-    width: 80px;
+    width: 7%;
     background-color: orange;
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 70px;
     padding: 20px 0;
-    position: absolute;
     height: 100%;
+    position: absolute;
     left: 0px;
 }
 
